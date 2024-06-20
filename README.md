@@ -4,8 +4,8 @@ Hello I'm Sahana an aspiring developer looking for improvments. I am currently p
 frontend projects in the mean time. I have proficient skills in ReactJs and NextJs. 
 
 Find me on:
-LinkedIn: https://www.linkedin.com/in/sahana-lakshmipathy-3a8a92274/
-Leetcode: https://leetcode.com/Sahana_Lakshmipathy/
+- LinkedIn: https://www.linkedin.com/in/sahana-lakshmipathy-3a8a92274/
+- Leetcode: https://leetcode.com/Sahana_Lakshmipathy/
 
 
 <!---
